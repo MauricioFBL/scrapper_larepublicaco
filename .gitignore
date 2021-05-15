@@ -1,0 +1,10 @@
+/.vscode/
+/venv/
+14-05-2021/
+
+*.jpg
+*.txt
+apuntes_xpath.txt
+Códigos de estado HTTP.txt
+settings.json
+scrapper_larepublica.code-workspace
